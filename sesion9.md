@@ -81,9 +81,7 @@ public double convertir(double cantidad) {
     }
 }
 }
-
-Submódulo: Lógica de Programación Periodo: 2023-2
-Estudiante: Jhon Mario Castrillón Gutierrez 
+ 
 
 
 
