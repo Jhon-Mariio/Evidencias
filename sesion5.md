@@ -109,8 +109,6 @@ Producto p1 = new Producto();
     p3.mostrarInformacion();
 } } }
 
-Submódulo: Lógica de Programación Periodo: 2023-2
-Estudiante: Jhon Mario Castrillón Gutierrez 
 
 
 
