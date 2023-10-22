@@ -86,7 +86,5 @@ public static void main(String[] args) {
             
         }
     }
-Submódulo: Lógica de Programación Periodo: 2023-2
-Estudiante: Jhon Mario Castrillón Gutierrez 
 
 
