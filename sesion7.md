@@ -46,8 +46,6 @@ Productos1.setNombre(“Smartphone”); System.out.println(Productos1.getNombre(
 
 } }
 
-Submódulo: Lógica de Programación Periodo: 2023-2
-Estudiante: 
 
 
 
